@@ -51,7 +51,11 @@
     {
       "id": 11
     }
-  ],
+  ], 
+  "profile": {
+    "name": "typicode"
+  }
+}
   "comments": [
     {
       "id": 1,
