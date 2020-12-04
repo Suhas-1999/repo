@@ -52,11 +52,12 @@
       "id": 11
     }
   ], 
-  "profile": {
+  "profile": [
+    {
     "name": "typicode"
     "postid":1
-  }
-}
+    }
+  ],
   "comments": [
     {
       "id": 1,
